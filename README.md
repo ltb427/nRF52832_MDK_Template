@@ -1,0 +1,2 @@
+# nRF52832_MDK_Template
+nRF52832使用MDK编程环境的模板
