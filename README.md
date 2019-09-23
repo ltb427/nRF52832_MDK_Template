@@ -1,2 +1,2 @@
 # nRF52832_MDK_Template
-nRF52832使用MDK编程环境的模板
+nRF52832使用MDK编程环境的模板，Clone下来后，要在mdk目录下建立一个Objects文件夹
